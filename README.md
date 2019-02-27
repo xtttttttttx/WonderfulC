@@ -6,4 +6,6 @@
 
 点击链接加入QQ群聊[【奇妙能力C语言】](https://jq.qq.com/?_wv=1027&k=5GHrfR3)，或扫码加入：
 
-![qrcode](./images/repo/qrcode.jpg)
+<div align="center">
+<img src="./images/repo/qrcode.png">
+</div>
