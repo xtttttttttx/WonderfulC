@@ -8,14 +8,14 @@
 - 尝试复制报错信息，然后使用谷歌或者百度进行了搜索
 - 尝试了其他能够独立解决问题的办法
 
-如果通过以上的尝试，你还是不能解决遇到的问题，那么你可以在Issue中提出自己的问题。
+如果通过以上的尝试，你还是不能解决遇到的问题，那么你可以在Issues中提出自己的问题。
 
 ## Issues
 
-Issues可以用来跟踪任务、提交Bug信息等，我们也可以用它来提问。下面是使用Issue提问的步骤：
+Issues可以用来跟踪任务、提交Bug等，我们也可以用它来提问。下面是使用Issue提问的步骤：
 
 1. 打开Issues页面 ![issue-tab](./images/issues/01.issues-tab.png)
 2. 搜索或者创建新的Issue ![search-or-new](./images/issues/02.search-or-new.png)
-3. 填写并提交问题 ![fill-and-post](./images/issues/03.fill-and-post.png) Github支持markdown语法，点击[此处](https://guides.github.com/features/mastering-markdown/)可以学习。
+3. 填写并提交问题 ![fill-and-post](./images/issues/03.fill-and-post.png) Github支持markdown语法，点击[此处](https://guides.github.com/features/mastering-markdown/)可以学习markdown。
 
-希望大家善用issue，为你的问题提供尽可能多的信息，这样可以节省大家宝贵的时间。
+希望大家善用Issues，在提问时，提供尽可能多的信息，这样可以节省大家宝贵的时间。
